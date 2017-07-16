@@ -1,10 +1,10 @@
 # Harvard CS50: Introduction to Computer Science
 
-Problem sets and projects for Harvard CS50: Introduction to Computer Science
+Problem sets and projects for Harvard CS50: Introduction to Computer Science course.
 
 To complete the following psets, I studied all of the cs50 lectures, walkthroughs and shorts on edX.  
-To memorize all the knowledge I prepared over 500 hundred [Anki](https://apps.ankiweb.net/) cards that I review everyday.  
-All problem set submissions received scores of 100% from [cs50x gradebook](http://imgur.com/a/Ac7l8).
+To memorize all the theoretical knowledge I made over 500 hundred [Anki](https://apps.ankiweb.net/) cards that I review everyday.  
+All problem set submissions received scores of 100% from the [cs50x gradebook](http://imgur.com/a/Ac7l8).
 
 #### Week 0:
 + Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler. Object code. Scratch. Statements. Boolean expressions.   
