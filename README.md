@@ -29,7 +29,7 @@ Conditions. Loops. Variables. Functions. Arrays. Threads. Events.
 
 #### Week 5:
 + Heap. Buffer overflow. Linked lists. Hash tables. Tries. Trees. Stacks. Queues.
-+ [Problem set 5: Mispellings](http://docs.cs50.net/2016/fall/psets/5/pset5.html) - in progress
++ [Problem set 5: Mispellings](http://docs.cs50.net/2016/fall/psets/5/pset5.html) - submitted on 18/07/2017
 
 #### Week 6:
 + HTTP. TCP/IP.
