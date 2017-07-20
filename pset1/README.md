@@ -6,12 +6,6 @@
 + Solve some problems in C.
 
 ### What I did
-
-+ Implemented [hello.c](https://github.com/mkczarkowski/harvard-cs50/tree/master/pset1/hello.c), a program that prints out a simple greeting to the user, per the below.
-```
-$ ./hello
-Hello, world!
-```
 + Implemented [water.c](https://github.com/mkczarkowski/harvard-cs50/tree/master/pset1/water.c), a program that reports a user’s water usage, converting minutes spent in the shower to bottles of drinking water.
 ```
 $ ./water
