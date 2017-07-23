@@ -1,0 +1,10 @@
+0.  Obviously: pneumonoultramicroscopicsilicovolcanoconiosis is apneumoconiosis caused by inhalation of very fine silicate or quartz dust.
+1.  getrusage returns resource usage measures for selected part of running process. speller.c use RUSAGE_SELF which is give you sum of resourecs used by all threads in the process.
+2.  16
+3.  We don't want to waste time and resources on creating a copy which is not needed.
+4.  Firstly, we ensure that each character of a word that we want to check with dictionary is valid. 
+    Valid word only has alphabetical characters, apostrophes and proper length. All of these conditions are managed by if and first else-if branch. 
+    If we encounter invalid word we go to the next one. Last else if deals with complete, valid words. 
+    Each valid word is added to list of words and spellchecked.  
+5.  With fscanf we would have to use analyze each character afterwards to ensure that we manage valid word - which means more time spend on the same operation.
+6.  To prevent mutations of those arguments by functions.
