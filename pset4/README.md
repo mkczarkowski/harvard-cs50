@@ -1,4 +1,4 @@
-# [Problem set 3: Game of Fifteen](http://docs.cs50.net/2016/fall/psets/3/pset3.html)
+# [Problem set 4: Forensics](http://docs.cs50.net/2016/fall/psets/4/pset4.html)
 
 ### Objectives
 + Acquaint you with file I/O.
