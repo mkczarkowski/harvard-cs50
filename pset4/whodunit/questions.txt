@@ -1,0 +1,13 @@
+1.  stdint.h is a header file that provide a set of typedefs that specify exact-width integer types, ie. uint8_t. 
+2.  This types let you use memory in a more a specific way. With those typedef's you can use allocate less than 4 bytes for integer number.
+3.  1, 4, 4, 2.
+4.  0x42 0x4D (hexadecimal)
+5.  biSize is size of BITMAPINFOHEADER in bytes which is the same for all .bmp files (40 bytes).
+    bfSize is size in bytes of actual bitmap file.
+6.  It means that bitmap is a top-down DIB and its starting point is in the upper-left corner.
+7.  biBitCount
+8.  It may happen if user won't pass file names from command-line
+9.  We need to read only one BITMAPINFOHEADER and BITMAPFILEHEADER from the stream
+10. 0
+11. It let you set new position indicator in a stream by given offset (padding in our case).
+12. SEEK_CUR is a constant that is replacement for current position of the file pointer.
