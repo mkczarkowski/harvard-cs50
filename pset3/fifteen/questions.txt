@@ -1,0 +1,4 @@
+0. From 3x3 to 9x9.
+1. Two dimensional array.
+2. void greet(void).
+3. void init(void), void draw(void), bool move(int tile), bool won(void).
