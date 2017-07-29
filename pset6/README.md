@@ -1,4 +1,4 @@
-# [Problem set 6: Sentimental](http://docs.cs50.net/2016/fall/psets/5/pset5.html)
+# [Problem set 6: Sentimental](http://docs.cs50.net/2017/x/psets/6/pset6.html)
 
 ### Objectives
 + Become familiar with HTTP.
