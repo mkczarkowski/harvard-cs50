@@ -1,0 +1,38 @@
+#!/usr/bin/env python3
+
+import os
+import sys
+
+from analyzer import Analyzer
+from termcolor import colored
+from helpers import get_user_timeline
+
+def main():
+    
+    # Ensure proper usage.
+    if len(sys.argv) != 2:
+        sys.exit("Usage: ./smile username")
+
+    # Absolute path to files.
+    positives = os.path.join(sys.path[0], "positive-words.txt")
+    negatives = os.path.join(sys.path[0], "negative-words.txt")
+
+    # Instantiate analyzer.
+    analyzer = Analyzer(positives, negatives)
+
+    user_timeline = get_user_timeline(sys.argv[1], 10)
+    if not user_timeline:
+        sys.exit("User doesn't exist / has private account.")
+    
+    # Analyze each tweet from user timeline.
+    for tweet in user_timeline:
+        score = analyzer.analyze(tweet)
+        if score > 0.0:
+            print(colored("+1 {}".format(tweet), "green"))
+        elif score < 0.0:
+            print(colored("-1 {}".format(tweet), "red"))
+        else:
+            print(colored("0 {}".format(tweet), "yellow"))
+
+if __name__ == "__main__":
+    main()
