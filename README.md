@@ -40,8 +40,8 @@ Conditions. Loops. Variables. Functions. Arrays. Threads. Events.
 + No problem set for this week.
 
 #### Week 8:
-+ Python.
-+ [Problem set 6: Sentimental](http://docs.cs50.net/2016/fall/psets/6/pset6.html)
++ Python. Flask. Natural Language Processing.
++ [Problem set 6: Sentimental](http://docs.cs50.net/2016/fall/psets/6/pset6.html) - submitted on 29/07/2017
 
 #### Week 9:
 + MVC. SQL.
