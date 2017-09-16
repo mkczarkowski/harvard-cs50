@@ -45,11 +45,11 @@ Conditions. Loops. Variables. Functions. Arrays. Threads. Events.
 
 #### Week 9:
 + MVC. SQL.
-+ [Problem set 7: C$50 Finance](http://docs.cs50.net/2016/fall/psets/7/pset7.html)
++ [Problem set 7: C$50 Finance](http://docs.cs50.net/2016/fall/psets/7/pset7.html) - submitted on 09/08/2017
 
 #### Week 10:
 + Javascript. DOM. Ajax.
-+ [Problem set 8: Mashup](http://docs.cs50.net/2016/fall/psets/8/pset8.html)
++ [Problem set 8: Mashup](http://docs.cs50.net/2016/fall/psets/8/pset8.html) - submitted on 24/08/2017
  
 #### Week 11:
 + [Final project](http://docs.cs50.net/2017/x/project.html)
