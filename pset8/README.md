@@ -10,4 +10,4 @@
 Not only can you search for places via the text box up top, you can also click on and drag the map elsewhere. 
 Scattered across the map, meanwhile, are newspaper icons that, when clicked, provide links to local news!
 
-![Mashup](https://imgur.com/2KyIuRZ)
+![Mashup](https://i.imgur.com/2KyIuRZ.png)
